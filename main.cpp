@@ -5,7 +5,7 @@ Path Finding AI
 Author - Devruth Khanna
 
 -Agent navigates in a grid world using supervised learning.
--Modelled as a Markov Decision Process (Graph), and uses the Value Iteration Algorithm to find most optimal path from any state.
+-Modelled as a Markov Decision Process, and uses the Value Iteration Algorithm to find most optimal path from any state.
 
 */
 
